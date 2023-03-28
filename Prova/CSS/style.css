@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+input{
+
+    display: block;
+}
+.campos{
+
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 20px;
+    margin-bottom: 10px;
+}
+
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#ins{
+    border: none;
+    margin: 10px;
+    width: 130px;
+    font-size: 16px;}
+#att{
+    border: none;
+    margin: 10px;
+    width: 130px;
+    font-size: 16px;
+
+}
+
+#del{
+    border: none;
+    margin: 10px;
+    width: 130px;
+    font-size: 16px;
+    color: black;
+}
+
+#link{
+    color: black;
+}
